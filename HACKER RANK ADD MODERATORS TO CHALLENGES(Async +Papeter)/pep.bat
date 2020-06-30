@@ -1,0 +1,1 @@
+node peppeteer.js "credentials.json"
