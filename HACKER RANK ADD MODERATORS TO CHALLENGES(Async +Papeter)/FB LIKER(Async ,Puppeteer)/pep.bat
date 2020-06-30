@@ -1,1 +1,0 @@
-node FBLIKER.js "credentials.json" "HINDUSTANTIMES" 20
